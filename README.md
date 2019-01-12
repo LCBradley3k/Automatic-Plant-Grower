@@ -4,20 +4,20 @@ The purpose of this project is to build a plant grower than can do all the work 
 
 ## Process
 
-1. Build  the case
+### 1. Build  the case
 
 The case is a rectangle with an open top (so the plant can grow out of it). The four sides are glass and the bottom is acrylic. It is held together via silicone.
 
 ![build the case](photos/build-case.jpeg)
 
-2. Leak Test
+### 2. Leak Test
 
 It leaked :) so I had to add more silicone (a couple of times, whoops)
 
 ![leak test](photos/leak-test.jpeg)
 
-3. Test the board
+### 3. Test the board
 
 I bought some cheap LEDs to test out the Arduino Uno, since we are going to be later using appropriate LEDs to grow the plant.
 
-![initial board test](initial-board-test.jpeg)
+![initial board test](photos/initial-board-test.jpeg)
